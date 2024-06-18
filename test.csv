@@ -1,0 +1,1204 @@
+,image_id,ques_en,ans_en,label
+0,2339630,Where is the picture taken?,Street corner.,2032.0
+1,2329507,When was this picture taken?,Daytime.,800.0
+2,2414273,Where is the cat?,Inside a car.,1192.0
+3,2414273,What animal is shown?,Cat.,694.0
+4,2382461,What are the people doing?,Skiing.,1955.0
+5,2320382,What is pictured?,A zebra.,363.0
+6,2415200,What does the sign say?,Pueblo g.,1818.0
+7,2319464,What is this?,Giraffe.,967.0
+8,2415249,What is the girl watching on TV?,A TV show.,58.0
+9,2368396,What kind of road?,Cobblestone.,749.0
+10,2372746,Who is flying over the water?,Bird.,584.0
+11,2368783,How much facial hair does the man have?,A beard and mustache.,79.0
+12,2386677,Where is the bench?,In front of tub.,1120.0
+13,2405971,How many sandwiches are there?,One.,1687.0
+14,2372365,What is in the man's right hand?,A fork.,158.0
+15,2386677,What is in front of the toilet?,Floormat.,906.0
+16,2405971,How many sandwiches are in the photo?,One.,1687.0
+17,2390856,What is the boat creating?,Waves.,2515.0
+18,2358256,What is the man doing?,Bending.,568.0
+19,2335740,When was the photo taken?,Daytime.,800.0
+20,2390724,What is on the plate?,Fruit.,954.0
+21,2349179,Where was the picture taken?,At a baseball game.,442.0
+22,2360697,What shade of color is the plate?,White.,2563.0
+23,2360697,What is that on the plate?,Processed meat.,1815.0
+24,2321088,Where was the picture taken?,The park.,2217.0
+25,2409343,What does the plane say?,Al Express.,396.0
+26,2409343,Where was the photo taken?,Runway for planes.,1887.0
+27,2409296,What color is the Helmet?,Black and White.,586.0
+28,2372533,What amount of tracks?,Two.,2446.0
+29,2360550,Where on Steiner Street is this location?,The 3300 block.,2106.0
+30,2393819,What is in the park?,A bench.,81.0
+31,2393819,What is black and leather?,A bag.,64.0
+32,2345475,What color is the snow?,White.,2563.0
+33,2403065,What is the man standing on?,Sand.,1901.0
+34,2388563,Why the ground is muddy?,The ground is wet.,2179.0
+35,2412517,What is in the tray?,Cinnamon rolls.,725.0
+36,2404836,What is the sitting man wearing?,A suit.,305.0
+37,2405531,How many elephants are shown?,One.,1687.0
+38,2373259,What are the kids eating?,Chicken nuggets.,714.0
+39,2373259,What shape is the table?,Circle.,726.0
+40,2392531,What is on the top of the train?,Bell.,564.0
+41,2334649,Where are the giraffes looking?,Left.,1305.0
+42,2408118,What color is the advertisement?,Blue and white.,612.0
+43,2402563,When was this taken?,Daytime.,800.0
+44,2405608,Who owns the railway?,Southern Railway.,1986.0
+45,2385208,Where was the picture taken?,In a kitchen.,1082.0
+46,2385208,What color is the table?,Brown.,655.0
+47,2350133,What color is the water?,Blue.,621.0
+48,2409318,What is in the air?,A jacket.,189.0
+49,2347287,What color is the cat?,Black.,603.0
+50,2360978,What does the black and gold sign say?,Garage.,962.0
+51,2376409,What color is the sign text?,Black.,603.0
+52,2371578,What is the woman in white walking?,A cow.,130.0
+53,2411204,How many phones are in the picture?,1,7.0
+54,2342457,When is this scene taking place?,Daytime.,800.0
+55,2342457,Where is the cow?,Street.,2034.0
+56,2377693,How many men are there?,Three.,2320.0
+57,2370651,What is the man playing?,Baseball.,507.0
+58,2330337,Where is the fence?,Behind the zebras.,559.0
+59,2335740,What time of day is it?,Afternoon.,387.0
+60,2417901,What color is the nearest table?,Yellow.,2612.0
+61,2359237,How does the sky look?,White clouds in sky.,2551.0
+62,2366911,What does the yellow light mean?,Caution.,697.0
+63,2381185,What country's flag is here?,USA.,2447.0
+64,2409594,What color is the outfit?,Black.,603.0
+65,2366011,What is the zebra doing?,Looking for food.,1336.0
+66,2328845,Who is on the ground?,People.,1753.0
+67,2372533,What is on the track?,Train.,2417.0
+68,2396897,What does the guy have on his head?,Hat.,1030.0
+69,2345475,How many people are there?,One.,1687.0
+70,2317967,What color is the sky?,Grey.,1015.0
+71,2394499,What design is on the hat band?,Stripe.,2037.0
+72,2316709,When is the boat in the water?,Daytime.,800.0
+73,2414268,What number is on the train?,47245,36.0
+74,2407844,How many men?,8,49.0
+75,2378502,What time of day is it?,Daytime.,800.0
+76,2407334,What are the giraffes doing?,Standing.,2006.0
+77,2316213,Who is pictured?,No one is pictured.,1448.0
+78,2341475,What is the man riding on?,A bicycle.,82.0
+79,2353804,What color is the man in front's hat?,Black.,603.0
+80,2338525,Who is there?,Young man.,2615.0
+81,2315483,What color is the sky?,Blue.,621.0
+82,2360089,What can be seen outside the window?,Trees.,2425.0
+83,2367820,What is on the windows of the red building on the right?,Bars.,502.0
+84,2325181,Who is under the clock?,No one.,1449.0
+85,2325181,When was this taken?,Evening.,870.0
+86,2362072,What is the number of people in the photo?,Two.,2446.0
+87,2370667,What type of animal?,Dog.,814.0
+88,2340962,What is on either side of the bench?,Flowers.,909.0
+89,2339853,What is the black ring shaped food?,Olives.,1481.0
+90,2333612,How many bottles of beer are there?,One.,1687.0
+91,2380059,How is the bread served?,Toasted.,2390.0
+92,2416233,What color is the dog?,Tan.,2085.0
+93,2346599,How many bears are there?,Two.,2446.0
+94,2406154,Where is the man standing?,Pitcher's mound.,1776.0
+95,2374396,What is the walkway made of?,Concrete.,758.0
+96,2360541,Where are the man's socks?,On his feet.,1536.0
+97,2372365,What is the man holding?,A fork and a phone.,157.0
+98,2330337,When was this photo taken?,Daytime.,800.0
+99,2390856,What color is the water?,Blue.,621.0
+100,2377924,What item is used for shade?,A umbrella.,337.0
+101,2377924,Who is holding a umbrella?,A woman.,356.0
+102,2417901,What is the nearest little boy doing?,Eating.,856.0
+103,2406916,Where is tree?,In office.,1129.0
+104,2355345,Where is the game being played?,Tennis court.,2097.0
+105,2409343,How many planes are there?,1,7.0
+106,2384565,What color is cabinet?,Brown.,655.0
+107,2372365,Where is the man?,Sitting.,1942.0
+108,2328205,When is the picture taken?,Daytime.,800.0
+109,2362098,What is written on board?,Letters.,1308.0
+110,2390856,Where is the man?,On a boat.,1486.0
+111,2362098,What does the sign say?,Strabe des 13. Januar.,2028.0
+112,2409296,Where are the people?,Ski Resort.,1951.0
+113,2392556,What is in the man's hand?,A skateboard.,290.0
+114,2417901,What color is the dress of the girl nearest?,Blue.,621.0
+115,2373710,What is in the left hand?,Left hand holding a sandwich.,1296.0
+116,2368296,What is the lamp doing?,On.,1678.0
+117,2381488,When is this picture taken?,Daytime.,800.0
+118,2366911,What kind of car is in the driveway?,Suburban.,2044.0
+119,2396897,What is brown and wooden?,Table.,2071.0
+120,2414610,What color is the rackets handle?,Purple.,1821.0
+121,2406916,What types of suits are the people wearing?,Business.,668.0
+122,2342468,What color is the snow?,White.,2563.0
+123,2393293,Where is the elephant?,In the water.,1182.0
+124,2406991,Where is the Frisbee?,In the air.,1135.0
+125,2406991,What color is the grass?,Green.,1009.0
+126,2398981,Where is the picture taken?,On a ski slopes.,1511.0
+127,2409594,When is this guy going to?,Down the mountain.,824.0
+128,2390724,What is decorating the plate?,Red stripes.,1850.0
+129,2414305,What is in the background?,A shadow of a person.,281.0
+130,2365424,Where is the girl?,On bench.,1525.0
+131,2405531,How many legs does the elephant have?,4,34.0
+132,2401712,What is the main color of the nostrils?,Black.,603.0
+133,2384565,What color is cat?,Black and white.,592.0
+134,2407334,What color is the wood wall?,Brown.,655.0
+135,2407969,Where is light coming from?,Windows.,2569.0
+136,2353804,When was the picture taken?,Daytime.,800.0
+137,2351388,Where is a shadow?,On the grass.,1593.0
+138,2351388,What color is the grass?,Green.,1009.0
+139,2372104,When was the photo taken?,During the daytime.,847.0
+140,2390545,How does the food taste?,Sweet.,2064.0
+141,2342718,How many truck parked?,One.,1687.0
+142,2362072,What are the people looking at?,Water.,2514.0
+143,2385208,What is in the glass?,Beer.,526.0
+144,2370651,Why is the man holding a baseball mitt?,He is playing baseball.,1035.0
+145,2373171,What is the woman holding?,A video game controller.,339.0
+146,2408066,What color is the shirt of the child?,Green.,1009.0
+147,2337267,Where is the man standing?,In front of the plane.,1117.0
+148,2347694,What is in the doorway?,Two men.,2440.0
+149,2330337,What animal is there?,Zebras.,2619.0
+150,2417947,What is on the mountain?,Snow.,1970.0
+151,2345905,What is the woman in the green dress holding?,Phone.,1765.0
+152,2334064,When was the picture taken?,Daytime.,800.0
+153,2370667,How is the dog positioned?,Lying down.,1339.0
+154,2345475,What gender is the person?,Female.,889.0
+155,2370667,What color is the dog?,"Brown, black.",653.0
+156,2406916,What color is the man's suit?,Blue.,621.0
+157,2370667,What type of animal?,Dog.,814.0
+158,2406916,What is behind the woman?,A chair.,116.0
+159,2394499,What color is the dog's nose?,Black.,603.0
+160,2381185,Why is the flag slack?,It is not windy.,1213.0
+161,2340962,When was this picture taken?,Daytime.,800.0
+162,2355345,How many men on the tennis court?,Two.,2446.0
+163,2382489,What animal is laying in the grass?,Dog.,814.0
+164,2349179,What color is a helmet?,Yellow.,2612.0
+165,2409318,What is the man riding?,A motorcycle.,224.0
+166,2324028,What is lit?,Candle.,683.0
+167,2388563,What is blue in the picture?,Sky.,1956.0
+168,2393420,Where is the pair of shoes?,On floor.,1532.0
+169,2321088,How many people are there?,Three.,2320.0
+170,2401976,What type of seating is shown?,Benches.,567.0
+171,2410132,Why is the grass green?,For horses to graze on.,925.0
+172,2384565,Where cat laying?,On ground.,1533.0
+173,2399016,Where are the bananas?,On the wooden board.,1662.0
+174,2328205,What are the zebra doing?,Walking.,2494.0
+175,2416233,What material is couch based on?,Leather.,1293.0
+176,2386549,Who is taking care of the plane?,No one.,1449.0
+177,2328845,When is person using hammer?,Now.,1462.0
+178,2377693,Who is wearing a blue helmet?,Batter.,513.0
+179,2406164,Where is the bridge?,Behind the men.,549.0
+180,2366573,What is the dog doing in the picture?,Laying on a bed.,1288.0
+181,2353804,How many people are there?,Ten.,2093.0
+182,2417947,What is in the background?,Trees.,2425.0
+183,2417947,Where is the skier?,Mountain.,1390.0
+184,2338525,How is he looking?,Normal.,1459.0
+185,2323147,Why is the ground wet?,Due to rain.,836.0
+186,2319992,How many people are in this picture?,Two.,2446.0
+187,2410341,What is the table made of?,Wood.,2593.0
+188,2332518,What color is the grass?,Green.,1009.0
+189,2364899,What is red and has an engine?,The train.,2264.0
+190,2414610,Where is the ball?,In the air.,1135.0
+191,2334649,How many animals are shown?,Three.,2320.0
+192,2367820,What is the gender of the person shown?,Female.,889.0
+193,2389530,Where is this pizza?,On white plate.,1676.0
+194,2340549,What color is the fence?,Green.,1009.0
+195,2393733,What is on the back table?,Boxes of pizza.,634.0
+196,2405644,What color is the sky?,White.,2563.0
+197,2337267,What is in the sky?,Clouds.,746.0
+198,2401685,What kind of drink is the man on the right holding?,Red Bull.,1841.0
+199,2402676,How many balls?,1,7.0
+200,2341155,When was the picture taken?,During the day.,846.0
+201,2392157,What type of building is behind the bus?,House.,1062.0
+202,2336062,What is blue and white?,A CD.,54.0
+203,2336062,What is black and brown?,Batteries.,514.0
+204,2408084,What color is the man's helmet?,White.,2563.0
+205,2388563,What is made of wood?,Bench.,566.0
+206,2360686,What color is the player's helmet?,Black.,603.0
+207,2388563,When was the picture taken?,Morning.,1385.0
+208,2360686,What game is being played?,Baseball.,507.0
+209,2409318,What color is the helmet?,Black.,603.0
+210,2360541,Where is the man sleeping?,Park bench.,1729.0
+211,2323147,How many arrow signs?,1,7.0
+212,2363917,Where was the picture taken?,Near railroad station.,1408.0
+213,2363917,When was this picture taken?,Daytime.,800.0
+214,2366157,Where is the man?,On horse.,1539.0
+215,2408118,What is man wearing?,White and green shirt.,2542.0
+216,2368217,What is the grey object in the front of the picture?,Gate.,964.0
+217,2371578,What is the fence made of?,Wood.,2593.0
+218,2328685,How many cups are shown?,Two.,2446.0
+219,2378308,"What color light is lit up, on the bottom?",Green.,1009.0
+220,2340962,Who was the bench dedicated to?,A deceased person.,138.0
+221,2350133,Where is the bird?,On the beach.,1564.0
+222,2405069,Where are the plants?,Window sill.,2567.0
+223,2363898,Where was the picture taken?,The sky.,2242.0
+224,2363898,When was the picture taken?,Daytime.,800.0
+225,2409318,What is the man doing?,Riding a motorcycle.,1863.0
+226,2342457,What color is the cow?,Brown and white.,649.0
+227,2368217,Where are white clouds?,In the sky.,1174.0
+228,2322820,Where is the cow?,Behind the gate.,542.0
+229,2410402,Who is walking in the water?,A woman.,356.0
+230,2409678,What kind of decorations are on the cake?,None.,1456.0
+231,2372365,What is the woman doing in the background?,Talking.,2081.0
+232,2330616,What is the woman holding in her hand?,Alcohol.,397.0
+233,2386985,What is on top of the bus?,A satellite dish.,275.0
+234,2335297,Where was this photo taken?,At a park.,446.0
+235,2337917,What color is the horse?,White.,2563.0
+236,2333844,Where was this photo taken?,Train tracks.,2416.0
+237,2381185,What street number is here?,13 and a half.,16.0
+238,2409594,What color is the jacket?,Black.,603.0
+239,2349179,How many people are in the photo?,Five.,899.0
+240,2372034,Where is the knife?,Laying on the plate.,1289.0
+241,2330938,Where are the people?,Behind the counter.,538.0
+242,2323235,What is in the hand of the girl?,A cell phone.,114.0
+243,2328205,What animal is seen?,Zebra.,2618.0
+244,2390545,How many pieces of cake are shown?,One.,1687.0
+245,2373710,What time is it?,Afternoon.,387.0
+246,2368296,What animal is shown?,A cat.,113.0
+247,2368296,How are the cat's eyes?,Open.,1690.0
+248,2335167,Where is the clock?,Under a light.,2452.0
+249,2317967,When was this photo taken?,During the day.,846.0
+250,2317967,What is on the man's head?,A hat.,179.0
+251,2346896,What color is the kids umbrella?,Yellow.,2612.0
+252,2316709,How many boats are there?,One.,1687.0
+253,2403065,How is the sky?,Clear.,736.0
+254,2405085,How is the horse colored?,Brown and white.,649.0
+255,2414305,What is open on the man?,The black jacket.,2128.0
+256,2315483,How many signs are there?,One.,1687.0
+257,2325181,What time is it?,01:10:00,1.0
+258,2362072,Where is the blue blanket?,Beneath the people.,569.0
+259,2402563,What is on the building?,Windows.,2569.0
+260,2385208,What is the table made of?,Wood.,2593.0
+261,2347694,Where was this taken?,Next to train.,1433.0
+262,2325217,Who is riding a horse?,A person.,240.0
+263,2382489,Where was this picture taken?,A field.,152.0
+264,2360686,What is on the right side of photo?,A black net.,89.0
+265,2339853,How many potatoes are there?,One.,1687.0
+266,2363917,What is this a picture of?,A train.,330.0
+267,2391575,What is visible?,The white board sign.,2277.0
+268,2391575,What is visible?,The white board sign.,2277.0
+269,2401976,Where was this picture taken?,On a boat.,1486.0
+270,2328685,What kind of food is shown?,Cake.,678.0
+271,2328685,Where are the cups?,On tray.,1671.0
+272,2416233,When was this photographed?,Daytime.,800.0
+273,2406154,What is the man throwing?,Ball.,494.0
+274,2360541,When was the picture taken?,At daytime.,463.0
+275,2371973,What is the color of the grass?,Green.,1009.0
+276,2337917,What color is the umbrella?,Yellow.,2612.0
+277,2337917,When was this picture taken?,Daytime.,800.0
+278,2333844,When was this photo taken?,Daytime.,800.0
+279,2390724,What is the color of the plate?,White and red.,2544.0
+280,2330938,What fruit is this?,Bananas.,498.0
+281,2393112,What is green in this picture?,The tree.,2267.0
+282,2362098,What is this a photo of?,Street sign.,2033.0
+283,2372533,What is on the track?,Train.,2417.0
+284,2385089,How many planes are in the air?,Zero.,2620.0
+285,2406164,How many people are shown?,2,21.0
+286,2384900,What is on the chair?,A pillow.,246.0
+287,2407844,When was this photo taken?,Daytime.,800.0
+288,2407844,Where is the plane pointed?,To the left.,2382.0
+289,2373768,What is on a white plate?,A coffee cup.,128.0
+290,2373768,Where is the fork?,On the plate?.,1618.0
+291,2378502,What is in the sheep's ears?,Location tags.,1328.0
+292,2386549,Where might this be?,Airport tarmac.,394.0
+293,2407969,What color is the wall?,White.,2563.0
+294,2351388,Who has four legs?,One giraffe.,1679.0
+295,2342608,When was this?,Daytime.,800.0
+296,2350133,How many legs does the bird have?,Two.,2446.0
+297,2363898,What color are the trees?,Green.,1009.0
+298,2407228,What is surrounding the water?,Houses.,1063.0
+299,2401976,What type of body of water is shown?,River.,1873.0
+300,2408925,What kind of floor is in the picture?,Wood.,2593.0
+301,2332812,What is the man poking the fruit with?,Knife.,1268.0
+302,2392157,What kind of bus is shown?,A double decker.,148.0
+303,2408084,When does the scene occur?,Daytime.,800.0
+304,2371973,What is the sign?,Road closed.,1874.0
+305,2358256,What has spread beautiful wings?,The bird.,2127.0
+306,2417901,What pattern is on the boy's shirt?,Stripes.,2039.0
+307,2359237,What color is the boat?,White.,2563.0
+308,2333844,How many trains are in the photo?,One.,1687.0
+309,2381185,When is the photo taken?,Daytime.,800.0
+310,2330938,How many pieces of fruit are there?,4.5.,35.0
+311,2366937,What is behind the woman?,A window.,354.0
+312,2366937,Who is holding the knife?,A young woman.,362.0
+313,2385089,How many people appear in this picture?,Zero.,2620.0
+314,2406164,What is the weather?,Sunny and windy.,2056.0
+315,2360550,What does the lit up sign mean?,Walk.,2490.0
+316,2393819,Who is wearing jeans?,Man holding camera.,1349.0
+317,2393819,What is the man wearing?,Blue jeans.,616.0
+318,2345475,When was the photo taken?,Daytime.,800.0
+319,2317967,What is the man riding?,Motorcycle.,1388.0
+320,2377847,How many cars are shown?,0,0.0
+321,2402676,What is the woman going to hit?,Tennis ball.,2096.0
+322,2341155,Who is on the blue motorcycle?,A man.,214.0
+323,2388563,What is the bench made of?,Stones.,2018.0
+324,2321163,Who is in the photo?,Two women.,2445.0
+325,2365173,What are on the feet of the man on the left?,Blue boots.,614.0
+326,2365173,What are the people standing under?,A gate.,163.0
+327,2407334,How many colors are the giraffes?,2,21.0
+328,2316213,When is this?,Daytime.,800.0
+329,2341475,Where is the man riding at?,On side of the road.,1556.0
+330,2353804,What color is the snow?,White.,2563.0
+331,2323147,How many people are standing in the street?,1,7.0
+332,2332518,How many trains are there?,Four.,940.0
+333,2357217,Where was this taken?,At an airport.,458.0
+334,2408118,What color is the lettering on the sign?,White.,2563.0
+335,2412909,What is on the person's head?,A basket.,73.0
+336,2347694,What is the train number?,51590,40.0
+337,2350133,How many birds can you see?,One.,1687.0
+338,2413449,What is next to the beds?,A chair.,116.0
+339,2413449,What type of material is the bunk bed made of?,Metal.,1375.0
+340,2407228,What is the last letter on the side of the boat?,A.,365.0
+341,2324028,How many candles are there?,One.,1687.0
+342,2324028,How many people are in the picture?,Two.,2446.0
+343,2393420,What is the microwave on?,Mini fridge.,1380.0
+344,2393420,Where is the microwave?,On top of the fridge.,1667.0
+345,2391575,What color is the sign?,White.,2563.0
+346,2364367,What is in front of the woman?,A parked bus.,235.0
+347,2328685,When is this type of food typically eaten?,After meal.,383.0
+348,2411204,What is tihe girl holding?,A cell phone.,114.0
+349,2363672,What is the road that starts with H?,Hollywood Blvd.,1053.0
+350,2346599,When was this picture taken?,Daytime.,800.0
+351,2340549,Where is this picture taken?,Tennis court.,2097.0
+352,2408925,What is the cat doing?,Eating.,856.0
+353,2330616,What color are the leaves?,Green.,1009.0
+354,2417707,Why is the person's hand up?,To shield their eye from the sun.,2367.0
+355,2335297,When was this photo taken?,Daytime.,800.0
+356,2330337,What color is the dirt?,Brown.,655.0
+357,2330337,What color are the zebras?,Black and white.,592.0
+358,2403741,What colour is the grass?,Green.,1009.0
+359,2403741,What is green in the photo?,Grass.,987.0
+360,2355345,What is the gender of the people playing tennis?,Male.,1346.0
+361,2406991,What color is the grass?,Green.,1009.0
+362,2409594,What color is the mountain?,Brown.,655.0
+363,2404308,What is in the background?,Buildings.,663.0
+364,2365424,What is this bench made of?,Wood and metal.,2590.0
+365,2384565,What is cat doing?,Watching tv.,2508.0
+366,2328205,How many zebras?,6,43.0
+367,2348234,What is the color of the camera?,Black.,603.0
+368,2385089,When was this picture taken?,Daytime.,800.0
+369,2360550,What street does the sign say?,Steiner.,2013.0
+370,2335167,Why is it behind a line?,To be protected.,2331.0
+371,2393293,Where are the leaves?,On the trees.,1654.0
+372,2403065,What is on the man's eyes?,Sunglasses.,2050.0
+373,2407844,What is the vehicle in the photo?,Airplane.,392.0
+374,2414305,What is behind the man in the photo?,Shadow.,1913.0
+375,2321163,Where was this photo taken?,A water park.,342.0
+376,2321163,What is behind the women?,A fence.,151.0
+377,2357597,What color is the water?,Brown.,655.0
+378,2407969,How many windows are there?,Two.,2446.0
+379,2332518,What color is the train?,Red.,1854.0
+380,2381564,How many window are directly above the entrance?,Six.,1943.0
+381,2357217,What is the airplane's main color?,White.,2563.0
+382,2385208,Where are the bottles?,On the table.,1646.0
+383,2325217,How many horses are there?,One.,1687.0
+384,2387978,What color are the tower bricks?,Off-white.,1478.0
+385,2410402,Who is holding the surfboard?,A woman.,356.0
+386,2410132,Where is the pathway?,It is made through the grassy area.,1211.0
+387,2374659,What is the person standing on?,Surfboard.,2059.0
+388,2343628,How many people can be seen?,One.,1687.0
+389,2343628,What is the wall made of?,Wood.,2593.0
+390,2380072,Why is the wine there?,To be drank.,2330.0
+391,2332812,Who is poking the fruit?,Man.,1358.0
+392,2392157,What type of bus?,Double decker bus.,820.0
+393,2319992,Who is in this picture?,Soccer players.,1976.0
+394,2332812,What is on the man's face?,Glasses.,973.0
+395,2374875,What is the kettle's handle made of?,Wood.,2593.0
+396,2366573,Where is the sheet?,On bed.,1524.0
+397,2319992,Where is the ball?,In front of the players.,1118.0
+398,2343628,Where are the glasses?,Man's face.,1357.0
+399,2393733,Where are the men and women?,Seated in the chairs.,1908.0
+400,2408084,What color is the man's jersey?,Green and white.,999.0
+401,2401685,Who is wearing the yellow coat?,The man on the left.,2198.0
+402,2360541,What is the man doing?,Sleeping on the bench.,1957.0
+403,2342718,What is behind the truck?,A tree.,334.0
+404,2408066,What year was this picture taken?,2008,24.0
+405,2337917,What color are the cars?,Yellow.,2612.0
+406,2345905,When is the photograph taken?,Daytime.,800.0
+407,2334064,What color is the man's coat?,Black.,603.0
+408,2335740,How many people are there?,Three.,2320.0
+409,2326735,What is the woman doing?,Riding a bike.,1861.0
+410,2404308,What is the name of the airline?,The airline is United Express.,2111.0
+411,2365424,What is sitting on bench?,Girl.,971.0
+412,2366937,Where is the cake located?,On the table.,1646.0
+413,2372533,Where was the photo taken?,Train station.,2415.0
+414,2348234,How many trains can be seen?,One.,1687.0
+415,2368296,What color is the disc holder?,White.,2563.0
+416,2385089,What color is the sky in this picture?,Grey.,1015.0
+417,2396897,How many laptops are there?,5,37.0
+418,2316709,What is Under the bridge?,Water.,2514.0
+419,2341155,Why was the picture taken?,To capture the man on the motorcycle.,2335.0
+420,2407844,Where is the aircraft?,On the runway.,1630.0
+421,2332221,What is on the ground?,Sand.,1901.0
+422,2365173,Where are the people standing?,Behind the log beams.,544.0
+423,2361427,What size of pizza?,Small.,1963.0
+424,2332518,Where is the train?,On the track.,1650.0
+425,2357217,When was this taken?,During the day.,846.0
+426,2367820,What kind of pants is the woman wearing?,Striped.,2038.0
+427,2362072,Where is the woman sitting?,To the right of man.,2383.0
+428,2412909,What is in the basket?,Bananas.,498.0
+429,2412909,Where are the bananas?,In bowl on woman's head.,1102.0
+430,2405608,How many signs are there?,One.,1687.0
+431,2378308,How many lights face each direction?,Three.,2320.0
+432,2350133,Where is the water?,Behind the bird.,532.0
+433,2382489,How many dogs are in this picture?,One.,1687.0
+434,2376409,Where are the trees?,Lining the street.,1325.0
+435,2376409,What are the green leaves on?,The tree.,2267.0
+436,2376409,When was the picture taken?,Daytime.,800.0
+437,2360715,How many airplanes are in the picture?,One.,1687.0
+438,2411204,What is the girl holding?,Phone.,1765.0
+439,2406154,Where is the glove?,On man's left hand.,1545.0
+440,2366573,What is photo of?,Dog on bed.,813.0
+441,2353308,What time of day is it?,Daytime.,800.0
+442,2393733,What is next to the food?,Drinks.,829.0
+443,2330616,Who is standing in this picture?,Men and a woman.,1369.0
+444,2342718,When did the truck arrived?,Earlier.,849.0
+445,2337917,What color is the woman's vest?,Green.,1009.0
+446,2392556,What is the man wearing?,Black pants.,596.0
+447,2326735,How many elephants are there?,1,7.0
+448,2342336,How many cows are in the picture?,Eight.,858.0
+449,2342336,What are the cows doing?,Lying down.,1339.0
+450,2321088,When was the picture taken?,Daytime.,800.0
+451,2401712,What is in the left background?,Fence.,891.0
+452,2409343,How many sets of wheels is visible?,3,28.0
+453,2366937,Where is the cake?,On the table.,1646.0
+454,2361917,What is the area around the doughnuts made of?,Metal.,1375.0
+455,2406164,When was the photo taken?,At early night.,464.0
+456,2417947,What color is the person's jacket?,Black.,603.0
+457,2410341,What is in the blue bowl?,Potatoes.,1812.0
+458,2335167,Where is the clock?,Against a wall.,388.0
+459,2389530,What is on the table?,Pizza.,1780.0
+460,2393293,What kind of animal is in the photo?,Elephant.,863.0
+461,2390965,Who is seen in the picture?,A girl.,165.0
+462,2377847,What animal is shown?,Horse.,1056.0
+463,2341155,Where was the picture taken?,On the street.,1645.0
+464,2341155,What is the picture showing?,A man on a motorcycle.,212.0
+465,2405085,When was the picture taken?,Daytime.,800.0
+466,2399016,When was this picture taken?,After the apple was cut.,384.0
+467,2399016,What is the fruit resting on?,A cutting board.,136.0
+468,2357597,Where was the photo taken?,Lake.,1273.0
+469,2316213,Where are the vegetables sitting?,In a wooden box.,1098.0
+470,2341475,What color is his hat?,Its red.,1239.0
+471,2392531,What color is the train?,"Maroon, Yellow and grey.",1364.0
+472,2392531,When was this picture taking?,During the day time.,845.0
+473,2323147,What color are the tree branches?,Brown.,655.0
+474,2381564,When was the photo taken?,During the day.,846.0
+475,2334649,Why is it bright outside?,It's daytime.,1226.0
+476,2382489,What color is the sky?,Blue.,621.0
+477,2339853,What is on the plate?,Food.,920.0
+478,2363898,What color is the sky?,Gray.,993.0
+479,2409318,What number is on the headlight?,24,27.0
+480,2407228,What color is the boat on shore?,Blue.,621.0
+481,2360978,What does the big black sign say?,Garage in gold letters.,961.0
+482,2368217,Where does the scene take place?,At the airport.,468.0
+483,2365859,What color are the elephants?,Brown.,655.0
+484,2410402,What is in the water?,Rock.,1876.0
+485,2340549,What is the sport?,Tennis.,2103.0
+486,2343628,How many cell phones are shown?,One.,1687.0
+487,2353308,How many No Entry signs are visible?,Two.,2446.0
+488,2386985,Where is the bus parked?,Near a sidewalk.,1406.0
+489,2372365,What color is the man's sweater?,Gray.,993.0
+490,2386985,Where was this photo taken?,Near a bus.,1404.0
+491,2417707,How many people are visible?,One.,1687.0
+492,2345905,Where are the people?,Park.,1730.0
+493,2349179,When was the photo taken?,Daytime.,800.0
+494,2409343,What color is the runway?,Gray.,993.0
+495,2373171,What color is the cloth on the small table?,White.,2563.0
+496,2348234,What can be seen on the far left?,A train.,330.0
+497,2360550,Where are the awnings?,Over the business entrances.,1714.0
+498,2377160,What are the ducks doing?,Floating the water.,903.0
+499,2405644,What color is the water?,Blue.,621.0
+500,2345475,Where was the photo taken?,In the mountains.,1164.0
+501,2346896,When was the picture taken?,Daytime.,800.0
+502,2394499,What is the position of the dog's ears?,Laid down.,1272.0
+503,2402676,Why is she playing?,For fun.,924.0
+504,2384900,What is on television?,The news.,2210.0
+505,2321163,Why are are their feet not visible?,Because they are standing in water.,522.0
+506,2407334,How many giraffes are there?,2,21.0
+507,2373259,What is the kid with red on doing?,Eating.,856.0
+508,2360918,What is on the bus?,Hot dogs.,1060.0
+509,2360918,What kind of vehicle?,Bus.,665.0
+510,2323147,Where are the leaves?,On the tree.,1653.0
+511,2334649,How many giraffes are shown?,Two.,2446.0
+512,2412909,How does the basket not fall?,Balance.,493.0
+513,2342608,Who are in the photo?,People.,1753.0
+514,2370667,What type of animal?,Dog.,814.0
+515,2413449,What color is the chair?,Light brown.,1315.0
+516,2333612,What color pepper is on the pizza?,Yellow.,2612.0
+517,2365859,Where are the elephants?,Tropics.,2426.0
+518,2322820,What is the person in white doing?,Touching the cow.,2405.0
+519,2371578,What color are the cow's legs?,White.,2563.0
+520,2410132,How many horses are in the picture?,Two.,2446.0
+521,2342718,What is the color of the truck?,Yellow and black.,2603.0
+522,2417707,What is on the person's head?,A hat.,179.0
+523,2335297,What color is the child's shirt?,"Orange, black, and white.",1697.0
+524,2371973,What is the sign color?,Red.,1854.0
+525,2408066,What is open?,Suitcase.,2047.0
+526,2408066,Who is in the suitcase?,The child.,2153.0
+527,2334064,What color is the snow?,White.,2563.0
+528,2381488,Where is this picture taken?,On street.,1558.0
+529,2366911,How many traffic lights are there?,Three.,2320.0
+530,2360697,What is that on the plate?,Food on table.,918.0
+531,2342336,How many white cows are there?,One.,1687.0
+532,2342336,Where was this picture taken?,On a farm.,1494.0
+533,2321088,Why are the leaves falling?,It is fall.,1208.0
+534,2321088,What color are the leaves?,Orange.,1698.0
+535,2401712,What is the main color of the eyes?,Black.,603.0
+536,2366011,What color are the trees?,Green.,1009.0
+537,2366011,What kind of animal is there?,A zebra.,363.0
+538,2328205,What is the color of the zebras?,Black and white.,592.0
+539,2393112,How do the cars know when to stop?,Traffic lights.,2414.0
+540,2328845,Where are the white chairs?,At table.,467.0
+541,2373710,What is black in color?,The shirt.,2237.0
+542,2385089,Where was this picture likely taken?,An airport.,405.0
+543,2335167,What is this?,A grandfather clock.,169.0
+544,2414610,When was this photo taken?,When the ball was in the air.,2528.0
+545,2414610,What is the color of the skirt?,Blue and yellow.,613.0
+546,2389530,What is about to happen to the pizza?,Eaten.,853.0
+547,2389530,What is the plate's color?,White.,2563.0
+548,2389530,How many lime slices on the table?,One.,1687.0
+549,2414579,What is on top of the box?,Water.,2514.0
+550,2394763,What is the guy holding?,A toothbrush.,325.0
+551,2317967,Who is riding the motorcycle?,A man.,214.0
+552,2346896,What are the people walking on?,Sidewalk.,1932.0
+553,2342468,What is behind the person?,Trees.,2425.0
+554,2384900,Where is the television?,Next to the door.,1426.0
+555,2378502,What color is the sheep's head?,Black.,603.0
+556,2405531,What color is the ground?,Brown.,655.0
+557,2361427,Where is the pizza?,Cutting board.,787.0
+558,2360918,What color is the bus?,"Red, yellow and white.",1853.0
+559,2360089,What is coming through the window?,Light.,1319.0
+560,2405608,What is on the lower left of the photo?,Bench.,566.0
+561,2347694,Who is under the train?,No one.,1449.0
+562,2347694,How may people are there?,Two.,2446.0
+563,2407228,What is on the river water?,Boats.,626.0
+564,2317456,When was the photo taken?,During the day.,846.0
+565,2347287,What color is the banana?,Yellow.,2612.0
+566,2391575,Who is walking down the sidewalk?,No one at the time.,1447.0
+567,2366157,What color helmet is the person wearing?,Black.,603.0
+568,2376409,What type of plant is surrounding the road?,Trees.,2425.0
+569,2370651,When was the game played?,During daylight hours.,840.0
+570,2392556,Where is the man?,In a bowl.,1070.0
+571,2326735,What is the elephant doing?,Walking.,2494.0
+572,2326735,When was the pic taken?,During the day.,846.0
+573,2390724,Why are the oranges sliced?,To make it easier to eat.,2352.0
+574,2404308,What are the planes going to carry?,Passengers.,1740.0
+575,2330938,How many people are there?,Two.,2446.0
+576,2323235,How is the girl passing her time?,Looking at her phone.,1333.0
+577,2323235,How is the girl traveling?,By vehicle.,675.0
+578,2401712,What is on top of the giraffe's head?,A set of horns.,280.0
+579,2366011,What is the sky?,Clear.,736.0
+580,2393112,Where are the electric wires?,Over the street.,1715.0
+581,2393819,Who is wearing a white shirt?,Man walking.,1356.0
+582,2390965,How is the girl going to eat the sandwich?,With a knife and fork.,2578.0
+583,2412517,What color is the table?,Brown.,655.0
+584,2405531,How many people are pictured?,Zero.,2620.0
+585,2357597,How many people can be seen?,Three.,2320.0
+586,2316213,What color are the tomatoes?,Red.,1854.0
+587,2338525,What is he doing?,Walking.,2494.0
+588,2315483,What color are the trees?,Green.,1009.0
+589,2381564,What color is the building?,Tan / brown.,2083.0
+590,2360089,What is the brown wooden object?,A desk.,141.0
+591,2357217,How many airplanes are there?,One.,1687.0
+592,2362072,What is under the bench?,Grass.,987.0
+593,2402563,How many clocks are pictured?,One.,1687.0
+594,2342608,What color is the sky?,Blue.,621.0
+595,2378308,How many directions is the traffic light?,Four.,940.0
+596,2317456,How many people are in the photo?,One.,1687.0
+597,2364367,What is the woman holding?,Bags.,492.0
+598,2371578,What does the woman in front have on the feet?,Boots.,628.0
+599,2363672,What is green color?,Signs.,1935.0
+600,2374396,What side is the green train on?,The left.,2191.0
+602,2380072,Who is in the pic?,No one.,1449.0
+603,2408925,Where is the cat standing?,In a bowl.,1070.0
+604,2332812,What color is the fruit?,Green and brown.,997.0
+605,2386985,When was this photo taken?,"Outside, during the daytime.",1710.0
+606,2386985,What color is the grass?,Green.,1009.0
+607,2377924,What item is used to hear?,Ears.,851.0
+608,2334064,What color is the sign?,Yellow and red.,2606.0
+609,2417901,How many children wearing hats?,One.,1687.0
+610,2333844,Who is standing on the tracks?,No one.,1449.0
+611,2406916,Where is window?,The office.,2213.0
+612,2403741,Where are the zebras?,In grass.,1122.0
+613,2372034,What is on the table?,The white plate.,2278.0
+614,2372034,How much pizza remains on the table?,One slice.,1685.0
+615,2323235,Where is the girl in the picture?,Inside a vehicle.,1195.0
+616,2401712,What's the number of giraffes in the picture?,2,21.0
+617,2372104,What is orange and black?,The wheels.,2276.0
+618,2335167,What is it made of?,Wood.,2593.0
+619,2394763,Where is the mirror?,On the wall.,1655.0
+620,2405085,Who is riding the horse?,A person.,240.0
+621,2398981,Why is the person in the air?,They jumped.,2312.0
+622,2332221,Where is this scene?,Beach.,515.0
+623,2332221,Why is it bright?,The sun.,2250.0
+624,2390299,What is this food?,A cake.,104.0
+625,2373259,How many bald adults are there?,Two.,2446.0
+626,2360918,What amount of colors on bus?,Three.,2320.0
+627,2315483,When was the picture taken?,Daytime.,800.0
+628,2351388,Where was the photo taken?,In the zoo.,1186.0
+629,2325181,What plant is partially visible?,Tree.,2423.0
+630,2325217,Who has a tail?,A horse.,183.0
+631,2382489,What color is the grass?,Green.,1009.0
+632,2407228,What color is the writing on the boat?,Black.,603.0
+633,2333612,What color are the plates?,White.,2563.0
+634,2363917,What number is in the circle?,60,45.0
+635,2366157,Where is the water?,Under the horse.,2462.0
+636,2368217,Where are many small windows?,On the planes.,1615.0
+637,2346599,What color are the flowers?,Yellow.,2612.0
+638,2342457,Where is this scene taking place?,Outdoors.,1703.0
+639,2366573,Where is the face?,On dog.,1530.0
+640,2330616,What time of day is it?,Nighttime.,1438.0
+641,2358256,What type of bird is this?,A hawk.,180.0
+642,2377924,What item has a metal handle?,A umbrella.,337.0
+643,2334064,What color are the man's pants?,Blue.,621.0
+644,2333844,What color are the train's stripes?,Orange.,1698.0
+645,2403741,Where are the zebras?,Wild.,2566.0
+646,2355345,What color are the shirts of the men?,White.,2563.0
+647,2406991,How many men are there?,Two.,2446.0
+648,2365424,What is the bench made of?,Wood.,2593.0
+649,2323235,Where is the wrist watch?,Left wrist.,1304.0
+650,2393112,Where is the clock tower?,Beside a building.,570.0
+651,2328845,What color is the ball?,White.,2563.0
+652,2328845,What color are the wheels?,Black and gray.,589.0
+653,2377160,What type of birds are the smaller birds?,Ducks.,835.0
+654,2394499,Where is the dog?,On a pillow.,1502.0
+655,2394499,What is the dog on?,The pillow.,2226.0
+656,2412517,What color is the table?,Brown.,655.0
+657,2412517,What is behind the food?,A window with a closed curtain.,353.0
+658,2332221,How many umbrellas?,1,7.0
+659,2332221,What is in the background?,Boat.,625.0
+660,2405531,What color is the elephant?,Grey.,1015.0
+661,2361427,Where is the pizza?,Board.,624.0
+662,2316213,What does the sign say?,Carrots $3.50 a bunch.,688.0
+663,2373259,How many blue bibs are visible?,One.,1687.0
+664,2341475,Who is on the bike?,The man.,2203.0
+665,2338525,What is in the background?,Trees.,2425.0
+666,2315483,What color are the rocks?,Gray.,993.0
+667,2324028,Who are the people in the picture?,Man and woman.,1348.0
+668,2365859,What are elephants doing?,Drinking.,828.0
+669,2364367,Where is this photo taken?,On a city street.,1488.0
+670,2387978,Where is the tree?,In front of the clock tower.,1112.0
+671,2408925,Why is the cat eating?,It is hungry.,1209.0
+672,2322820,What color is the cow?,Brown and white.,649.0
+673,2409878,Who is wearing gloves?,Players.,1790.0
+674,2410402,What is in the water?,Large rocks.,1279.0
+675,2411204,Who is wearing red?,Girl with long hair.,970.0
+676,2410132,Where is the fence?,Behind the trees.,553.0
+677,2406154,What color is the grass?,Green.,1009.0
+678,2408925,Where is cat food?,In two bowls.,1188.0
+679,2408084,What is the man doing?,Skateboarding.,1947.0
+680,2392157,What is in the front window of the bus?,Sign.,1934.0
+681,2374875,Where is the teapot positioned?,Back right burner.,488.0
+682,2343628,What color is the cellphone?,Black.,603.0
+683,2353308,Where are the Dali banners displayed?,On the side of the building.,1635.0
+684,2346613,What kind of animal is in the picture?,A dog.,146.0
+685,2391897,Where is the round white decoration?,On the clock tower.,1580.0
+686,2374875,What appliance is this?,Stove an oven.,2025.0
+687,2318313,What color is the building?,White.,2563.0
+688,2415614,What is on the woman's hip?,A purse.,260.0
+689,2338734,What colors are the cows?,Brown and white.,649.0
+690,2386251,When is this taken?,Daytime.,800.0
+691,2326516,When is this taken?,Daytime.,800.0
+692,2326516,What type of animals are pictured?,Elephants.,865.0
+693,2321264,When was this photo taken?,Daytime.,800.0
+694,2365326,What kind of picture is on the right?,Black and white.,592.0
+695,2376147,What are the small red balls?,Cherry tomatoes.,712.0
+696,2401318,What is the main color of the letter C?,White.,2563.0
+697,2378419,What color is the bike's tire?,Black.,603.0
+698,2332102,When was picture taken?,Daytime.,800.0
+699,2352633,What time does the clock say?,14:35:00,19.0
+700,2375565,What is hanging in front of the bike?,A black bag.,87.0
+701,2384078,What two colors are on the flag painted on the train?,Red and blue.,1844.0
+702,2356158,Where is the fork?,Right of the plate.,1869.0
+703,2368690,Who is sitting in a chair?,An athlete.,412.0
+704,2381594,What color is the side of the train?,Red.,1854.0
+705,2404093,What is the main color of the leaves?,Green.,1009.0
+706,2349854,What are the foods on?,Board.,624.0
+707,2326386,When was this picture taken?,In the daytime.,1146.0
+708,2415472,Where is person with white shirt?,On right.,1554.0
+709,2398174,What color is the street?,Gray.,993.0
+710,2403452,How many planes do you see?,One.,1687.0
+711,2376147,When is the picture taken?,Daytime.,800.0
+712,2412490,What is painted green?,The bus.,2145.0
+713,2339629,What are the sheep eating?,Grass.,987.0
+714,2393344,What animals are in the picture?,Elephants.,865.0
+715,2375565,What is orange on the bike?,The turn signals.,2269.0
+716,2394870,What is present?,A train.,330.0
+717,2387890,Where is this picture taken?,A street.,303.0
+718,2363837,How many of the people are women?,4,34.0
+719,2379989,When was this photo taken?,During the day.,846.0
+720,2364025,Where are the boy's hands?,On his knees.,1538.0
+721,2338734,Where are the cows?,In a field.,1078.0
+722,2338734,Who is in the picture?,No one.,1449.0
+723,2338734,How many cows can be seen?,4,34.0
+724,2334735,What color are the majority of the boats?,White.,2563.0
+725,2398038,What are the boats floating in?,Water.,2514.0
+726,2403260,Where are the sheep?,In the front field.,1150.0
+727,2410331,What is the color of the wall?,White.,2563.0
+728,2350144,When was the photo taken?,Day time.,798.0
+729,2393406,What is near the umbrella?,Trees.,2425.0
+730,2376147,Who is eating?,The people.,2219.0
+731,2323919,How many blue and white players are shown?,Two.,2446.0
+732,2378419,Who is in the photo?,Nobody.,1455.0
+733,2411258,What's the color of the table?,Brown.,655.0
+734,2338152,What animals are in the picture?,Lambs.,1274.0
+735,2412490,Who are riding on the buses?,People.,1753.0
+736,2385611,Where is the cat lying?,In the sunlight.,1178.0
+737,2356292,Who is behind the table?,Women.,2589.0
+738,2341544,How is the weather?,Sunny.,2057.0
+739,2383236,What color is the paper?,White.,2563.0
+740,2406459,How many motorcycles are there?,One.,1687.0
+741,2370761,What is lighting up the scene?,The sun.,2250.0
+742,2354294,Why is the man wearing glasses?,To see clearly.,2362.0
+743,2359857,Where is the window?,On the building.,1574.0
+744,2346613,How many dogs are in the picture?,One.,1687.0
+745,2372504,Where are the trees?,On the edge of the water.,1587.0
+746,2332663,What color are the boys shorts?,Blue.,621.0
+747,2398174,When was the photo taken?,Daytime.,800.0
+748,2398038,What is seen in the distance?,Mountains.,1391.0
+749,2319425,What color is the sky?,Blue.,621.0
+750,2339629,Where is the fence?,To the left of the sheep.,2380.0
+751,2375565,What is all over the tire?,Mud.,1395.0
+752,2384078,How many train windows are pictured?,Five.,899.0
+753,2383236,What color is the cat?,Grey.,1015.0
+754,2331263,When was this photo taken?,Daytime.,800.0
+755,2374316,Why is she smiling?,For the pic.,932.0
+756,2379989,What color is the girl's shirt?,Blue.,621.0
+757,2345970,When was this photo taken?,Daytime.,800.0
+758,2345970,Who is in the sky?,A bird.,85.0
+759,2317662,What color is the arrow sign?,Blue.,621.0
+760,2338734,When is the picture taken?,Daytime.,800.0
+761,2327770,What color is the ground?,White.,2563.0
+762,2386251,What color is the bicycle?,Green.,1009.0
+763,2374744,What type of computer is this?,A laptop.,196.0
+764,2403260,Where are the trees?,Background.,489.0
+765,2350144,Where is the man?,The street.,2246.0
+766,2345063,How many cats are in the picture?,One.,1687.0
+767,2411258,What's the color of the plate?,White.,2563.0
+768,2401569,What color are the trees?,Green.,1009.0
+769,2338152,How many animals are in the picture?,Two.,2446.0
+770,2412490,What color is the line next to the green bus?,White.,2563.0
+771,2385611,What direction is the cat looking?,To the left.,2382.0
+772,2363939,Where is the pillow?,Under cat's head.,2454.0
+773,2341544,What are the people doing?,Walking.,2494.0
+774,2394870,Who is in the picture?,A woman.,356.0
+775,2377909,How many people can be seen in this picture?,Two.,2446.0
+776,2346276,What time of day is it?,Day time.,798.0
+777,2374316,What is on the feet of the baby?,Socks.,1978.0
+778,2364025,What is white on the grass?,Flowers.,909.0
+779,2318339,What color is the sky?,Blue.,621.0
+780,2350144,What is on the ground?,Cement.,700.0
+781,2350144,Why is the man in the street?,Catching the bus.,696.0
+782,2401318,Where is a window?,On the plane.,1614.0
+783,2372168,Who has blue eyes?,The child.,2153.0
+784,2341119,What kind of room is this?,Bedroom.,524.0
+785,2401569,Where are the trees?,On the left.,1604.0
+786,2319425,How many motorcycles are there?,Two.,2446.0
+787,2362135,What is in the cup?,A drink.,149.0
+788,2364752,Where are the cut vegetables sitting?,On top of a knife.,1664.0
+789,2339629,When was this picture taken?,During the day.,846.0
+790,2392672,Where are the birds?,Grass field.,986.0
+791,2381594,How many train tracks are there?,Two.,2446.0
+792,2326386,What color is the water?,Blue.,621.0
+793,2364025,Where are the white flowers?,In the grass.,1152.0
+794,2330319,What color are the bedsheets?,White.,2563.0
+795,2376291,Who is visible in this picture?,The bus driver.,2144.0
+796,2398038,What can be seen in the distance?,Mountains.,1391.0
+797,2367932,Where is the spire on the church?,Top of the tower.,2402.0
+798,2403452,When was picture taken?,Daytime.,800.0
+799,2336048,What color is the table the gray laptop is on?,Silver.,1937.0
+800,2410331,What color is the ramp?,Brown.,655.0
+801,2371319,What is in the grass?,Elephants.,865.0
+802,2371319,What way are the elephants facing?,Left.,1305.0
+803,2376147,What is the white clumps?,Cheese.,711.0
+804,2323919,What color is the dirt?,Brown.,655.0
+805,2341119,What color is the towel on the balcony?,Pink.,1775.0
+806,2401317,When will the car near the crosswalk be gone?,After it moves past the crosswalk.,382.0
+807,2366107,What is painted green?,The bench.,2124.0
+808,2384078,What color is the sky in the photo?,Blue.,621.0
+809,2380626,What is the horse doing?,Grazing.,994.0
+810,2380626,What is the white animal?,Bird.,584.0
+811,2381594,How many headlights does the train have?,Two.,2446.0
+812,2354294,Where Are the man's glasses?,On his face.,1535.0
+813,2346276,What is the man doing?,Surfing.,2062.0
+814,2346276,What color is the water?,Green.,1009.0
+815,2379989,How many people do you see?,Two.,2446.0
+816,2346613,Where is the picture taken?,The beach.,2120.0
+817,2330319,How many women are on the bed?,Two.,2446.0
+818,2334735,How many birds are shown in the photo?,One.,1687.0
+819,2339362,Where was this picture taken?,In the refrigerator.,1170.0
+820,2410331,What age is the boy?,14,18.0
+821,2401318,How many airplanes are there?,One.,1687.0
+822,2372168,What is the boy doing?,Playing with a cellphone.,1797.0
+823,2378419,Why is the picture clear?,Its daytime.,1237.0
+824,2380626,How many horses are in the picture?,One.,1687.0
+825,2368690,What game is being played?,Baseball.,507.0
+826,2393936,What is the wall's color?,White.,2563.0
+827,2387890,Where is the grass?,On the ground.,1595.0
+828,2387890,Where is the concrete?,In the road.,1171.0
+829,2363837,Who is in the water?,People.,1753.0
+830,2415472,What are they watching?,TV.,2068.0
+831,2368442,Where is the ball?,In the air.,1135.0
+832,2318313,What color is the ground?,Green.,1009.0
+833,2346613,How many people are on the beach?,Two.,2446.0
+834,2391897,How many clocks?,1,7.0
+835,2332663,What color is the man's sandals?,Brown.,655.0
+836,2410331,How many people are in the photo?,One.,1687.0
+837,2365326,What is the boy holding?,A balloon.,67.0
+838,2376147,What is the bright light?,Sun.,2049.0
+839,2372168,What is the hand holding?,Phone.,1765.0
+840,2316371,What color is the sky?,Blue.,621.0
+841,2401569,What is green in the image?,The tree.,2267.0
+842,2341544,What color is the sky?,Blue.,621.0
+843,2392672,Who is next to the birds?,No one.,1449.0
+844,2387890,What color is the jacket?,Blue.,621.0
+845,2377909,What is green things placed on pizza?,Leaves.,1294.0
+846,2346276,Who is surfing?,A man.,214.0
+847,2331263,Where are the animals looking?,At the camera.,470.0
+848,2384725,What color is the table mat?,Red.,1854.0
+849,2318313,Where is the building?,Behind the trees.,553.0
+850,2391897,What shape is the clock?,Round.,1883.0
+851,2391897,Where are the buildings?,Behind the trees.,553.0
+852,2386251,How many people are on the bicycle?,Two.,2446.0
+853,2374744,What is the desk made out of?,Wood.,2593.0
+854,2360695,Where are the lights?,On the ceiling.,1578.0
+855,2401317,What is the fence on the right made of?,Metal.,1375.0
+856,2356292,Where are the bananas?,Right of oranges.,1867.0
+857,2356292,When was this taken?,During the day.,846.0
+858,2339629,Where was this photo taken?,In a field.,1078.0
+859,2393344,What is in the photo?,Elephants.,865.0
+860,2375565,Where is the motorcycle parked?,On the street.,1645.0
+861,2356158,What are they drinking?,Coca-Cola.,751.0
+862,2394870,When was this?,Daytime.,800.0
+863,2403452,What is white?,A plane.,252.0
+864,2341119,What color are the bed sheets?,White.,2563.0
+865,2319358,How many people are in this photo?,None.,1456.0
+866,2319358,What color are the flowers in the window?,Yellow.,2612.0
+867,2363939,Where is the cat sleeping?,In a chair.,1073.0
+868,2383236,What is the cat sitting on?,A paper.,234.0
+869,2354294,What Color is the man's shirt?,White.,2563.0
+870,2345970,What color is the water?,Blue.,621.0
+871,2331263,What are pictured in this photo?,Sheep.,1918.0
+872,2317662,Where is the stop sign?,Above the arrow sign.,368.0
+873,2363080,Where is the girl?,In the water.,1182.0
+874,2332663,What color is the cup that the little boy is holding?,Red.,1854.0
+875,2327770,How many people are skiing?,1,7.0
+876,2386251,What does the sign in the background say?,Coca cola.,750.0
+877,2346613,What color is the dog?,Black.,603.0
+878,2393406,What is next to the umbrella?,Tree.,2423.0
+879,2378419,When was the photo taken?,During the day.,846.0
+880,2412490,What color is the front bus?,Green.,1009.0
+881,2385611,What color are the cat's eyes?,Green.,1009.0
+882,2380626,Who is in the picture?,No one.,1449.0
+883,2398813,What is the sidewalk made of?,Cement.,700.0
+884,2349854,Where is the fruit placed?,Bowl.,631.0
+885,2346276,How many people in the photo?,One.,1687.0
+886,2415472,Who is watching TV?,Two people.,2441.0
+887,2368442,Where is the tennis ball?,In the air.,1135.0
+888,2363080,What color is girl's shirt?,White.,2563.0
+889,2359857,What animal is attached to the cart?,Horse.,1056.0
+890,2364025,What is white in color?,The pants.,2215.0
+891,2344252,How many toilets are there?,One.,1687.0
+892,2384725,When was this photo taken?,Before a meal time.,527.0
+893,2364049,What is beside the bus?,A sidewalk.,287.0
+894,2364049,What is the bus doing?,Stopped at the station.,2020.0
+895,2398174,What color os the bus nearest the camera?,White.,2563.0
+896,2326516,What color are the elephants?,Grey.,1015.0
+897,2376291,When was this picture taken?,During the day.,846.0
+898,2341119,What color cup is on the table?,White.,2563.0
+899,2364752,What is behind the table?,A wall.,340.0
+900,2380626,What direction is the horse facing?,Right.,1872.0
+901,2392672,Where are the white feathers on the birds?,Chest.,713.0
+902,2392672,What covers the animals?,Feathers.,887.0
+903,2405201,What kind of chairs are in the middle of the picture?,"Folding chairs,.",916.0
+904,2370761,Where is the bench?,In the woods.,1184.0
+905,2349854,What color is the table?,White.,2563.0
+906,2379989,What is pulling the little girl?,A horse.,183.0
+907,2344252,What color is the toilet?,White.,2563.0
+908,2344252,What is around the child's neck?,Necklaces.,1415.0
+909,2407162,What color is the no left turn sign?,Black and white.,592.0
+910,2318313,What is hanging in the background?,A banner.,69.0
+911,2384725,What color is the plate?,White.,2563.0
+912,2339362,How many bottles are in the picture?,Fifteen.,894.0
+913,2318339,When was this taken?,Daytime.,800.0
+914,2410331,What is in the background?,Wall.,2496.0
+915,2393406,What is the fence connected to?,Red brick wall.,1849.0
+916,2365326,When was this photo taken?,In the daytime.,1146.0
+917,2341119,When was this photo taken?,Day time.,798.0
+918,2393344,Where are the elephants?,In the water.,1182.0
+919,2319358,What two colors are the words?,Red and white.,1847.0
+920,2352633,What is on the tower?,A clock.,126.0
+921,2352633,Where is the clock?,On the tower.,1649.0
+922,2356158,Where is the knife?,Right of the fork.,1868.0
+923,2406459,What color is the bus?,Blue.,621.0
+924,2406459,Where is the lady?,Near bus.,1407.0
+925,2398813,Where was this picture taken?,On the street.,1645.0
+926,2359857,Who is sitting in the cart?,Man and woman.,1348.0
+927,2403260,What keeps the sheep in?,Fence.,891.0
+928,2385611,When was the picture taken?,Daytime.,800.0
+929,2332102,What is beside cat's head?,Papers.,1726.0
+930,2406459,What is the lady on?,Bike.,582.0
+931,2398813,Where are the shadows?,On the ground.,1595.0
+932,2370761,Where is the row of trees?,On the road.,1627.0
+933,2331263,Where are these animals?,In a pasture.,1087.0
+934,2415472,What co!or is lampshade?,White.,2563.0
+935,2374316,What is the baby holding?,Cloth.,744.0
+936,2374316,Who is holding the paper?,Small baby.,1962.0
+937,2379989,What is behind the horse?,Trees.,2425.0
+938,2335079,How many colors are in the toothbrush handle?,Three.,2320.0
+939,2374875,What is this room?,Kitchen.,1265.0
+940,2407162,Where are the ramps?,Behind the truck.,554.0
+941,2415614,What is the man and woman doing?,Taking.,2078.0
+942,2415614,Who is in the photo?,A man and woman.,209.0
+943,2332663,What is the man holding?,Wii controllers.,2564.0
+944,2332663,Where is the Wii console?,On the floor.,1589.0
+945,2326516,What is the sky like?,Overcast.,1716.0
+946,2398038,What is to the right of the water?,Building.,662.0
+947,2323919,What color is the base?,White.,2563.0
+948,2345063,What color is the window trim?,Blue.,621.0
+949,2411258,What is in the green bottle to the upper left?,Red wine.,1851.0
+950,2401317,What kind of structure is in the middle distance?,A bridge.,99.0
+951,2338152,Why are their eyes closed?,They are asleep.,2299.0
+952,2364752,What is sitting in the wooden block?,Knives.,1269.0
+953,2356292,How many people are there?,Two.,2446.0
+954,2366107,Who is wearing the red jacket?,The woman.,2289.0
+955,2393344,How many elephants are facing the camera?,Two.,2446.0
+956,2363939,What are the cats doing?,Napping.,1403.0
+957,2393936,Where is the man's hand?,In his pocket.,1125.0
+958,2363837,How many people are in the water?,11,12.0
+959,2405201,How big is the room where the picture was taken?,Very big.,2485.0
+960,2354294,How many men are there?,One.,1687.0
+961,2367360,What color are the sheep?,White.,2563.0
+962,2338114,What are between the fence and the buildings?,Trees.,2425.0
+963,2363014,Who has black hair?,The woman.,2289.0
+964,2376332,What animal is displayed?,Horses.,1058.0
+965,2376332,Who is in the picture?,People with horses.,1752.0
+966,2336041,When did the plane take off?,In the morning.,1163.0
+967,2374977,What number of pizzas?,Two.,2446.0
+968,2402657,What color is the dog's nose?,Black.,603.0
+969,2340279,How many people are showing in the image?,One.,1687.0
+970,2345589,What color are the bananas?,Yellow.,2612.0
+971,2336292,How many people are there?,Four.,940.0
+972,2385255,When was the pic teken?,During the day.,846.0
+973,2410531,What color are the man's shorts?,White.,2563.0
+974,2341416,When was this photo taken?,On a trip to the subway.,1519.0
+975,2354144,How many buses are on the street?,1,7.0
+976,2411351,What is over the man's head?,Large umbrella.,1281.0
+977,2351039,How many people are in the image?,0,0.0
+978,2414214,What shape are the fruits?,Round.,1883.0
+979,2392528,What is the woman wearing on the head?,Hat.,1030.0
+980,2408813,Where are the two benches?,Next to one another.,1422.0
+981,2387827,What color is wall behind the bananas?,Green.,1009.0
+982,2335754,When was this picture taken?,Daytime.,800.0
+983,2336292,When was the photo taken?,Daytime.,800.0
+984,2359580,What is the number displayed on the bus?,22,26.0
+985,2410531,What color is shirt?,White.,2563.0
+986,2343297,When was this photo taken?,Daytime.,800.0
+987,2415964,Where is this scene?,A farm.,150.0
+988,2344495,What color is the grass?,Green.,1009.0
+989,2388959,What animal is shown?,Elephants.,865.0
+990,2408406,What color is the tip of the umbrella?,White.,2563.0
+991,2363154,What is building made of?,Stone.,2017.0
+992,2363154,How many floors is the left building?,Three.,2320.0
+993,2392528,What is brown in the photo?,Suitcase.,2047.0
+994,2396341,What is the yellow food on the table?,Bananas.,498.0
+995,2416681,How many baskets are there?,One.,1687.0
+996,2390523,What material is the counter made of?,Wood.,2593.0
+997,2402829,When was this taken?,Daytime.,800.0
+998,2401945,What is the ball's color?,Green.,1009.0
+999,2318638,How many people are shown?,One.,1687.0
+1000,2316928,What is on the man's head?,A hat.,179.0
+1001,2359279,What is next to the toilet?,A trash can.,331.0
+1002,2361344,How is the image taken?,Front of camera.,950.0
+1003,2362259,What does the man have?,Bicycle.,579.0
+1004,2410531,What is the man wearing as pants?,Shorts.,1927.0
+1005,2365624,What has white stomachs?,Two black cows.,2433.0
+1006,2411997,When was this picture taken?,During the daytime.,847.0
+1007,2411997,What is the man doing?,Riding a motorcycle.,1863.0
+1008,2411997,How many motorbikes are in the scene?,One.,1687.0
+1009,2328298,What color is the fence?,Orange.,1698.0
+1010,2373285,What is black color?,Net.,1417.0
+1011,2351039,Where is this taken?,Kitchen table.,1264.0
+1012,2374734,What color is the building?,Red.,1854.0
+1013,2402829,What are the zebras doing in the water?,Crossing the river.,773.0
+1014,2402829,What color is the grass?,Green.,1009.0
+1015,2395872,What condition is the road in?,Wet.,2522.0
+1016,2318638,When was the photo taken?,Daytime.,800.0
+1017,2379559,How many cats are pictured?,One.,1687.0
+1018,2412914,What color is the scissors?,Orange.,1698.0
+1019,2353318,How many women are there?,One.,1687.0
+1020,2360930,What is on the ground?,Brush.,657.0
+1021,2372344,Where is the man skateboarding?,Halfpipe.,1020.0
+1022,2410531,What is court made of?,Clay.,731.0
+1023,2370181,Where is this meal taking place?,A restaurant.,265.0
+1024,2346879,Where is the Eiffel Tower?,Reflected in the mirror.,1856.0
+1025,2413695,Where are the animals?,In the grass.,1152.0
+1026,2413695,What is in the background?,Bushes.,666.0
+1027,150324,How many men are standing?,One.,1687.0
+1028,2361225,What color is the man's hat?,Gray.,993.0
+1029,2397109,What color is the canopy?,Green and white.,999.0
+1030,2397109,What color are the traffic lights?,Green.,1009.0
+1031,2357684,What are the horses standing on?,Dirt.,805.0
+1032,2375798,What is the person walking on?,A sidewalk.,287.0
+1033,2378366,What colors are the blanket?,"Red, white, and blue.",1852.0
+1034,2363014,Where is the nose?,On the girl.,1592.0
+1035,2376332,What item is near the shore?,Sand.,1901.0
+1036,2387827,How man men are in the picture?,Two.,2446.0
+1037,2318683,What color are the curtains?,White.,2563.0
+1038,2337237,What color is the floor?,Black.,603.0
+1039,2412914,How many people are there?,None.,1456.0
+1040,2374619,Who is in the picture?,No one.,1449.0
+1041,2334471,What is red?,Kite.,1266.0
+1042,2361225,Where was the picture taken?,In a park.,1086.0
+1043,2357684,What is in the background?,A fence.,151.0
+1044,2402216,What other person can be seen?,A cyclist.,137.0
+1045,2334271,What is the man sitting on?,A motorcycle.,224.0
+1046,2334271,How many bikes do you see?,1 bike.,8.0
+1047,2399248,What is the room?,A bathroom.,75.0
+1048,2368617,Where is the carpet?,On the floor.,1589.0
+1049,2396341,What fruit is on the white plate on the table?,Plantains.,1785.0
+1050,2332982,When was this image taken?,Winter.,2574.0
+1051,2355145,What is behind the sink counter top?,A mirror.,221.0
+1052,2318683,Who is with the man?,No one.,1449.0
+1053,2361344,What are the women eating?,Hot dog.,1059.0
+1054,2335754,What color are the leaves outside?,Red.,1854.0
+1055,2379559,What kind of animal is this?,Cat.,694.0
+1056,2402203,What are the fluffy things in the sky?,Clouds.,746.0
+1057,2358603,How many machines are there?,One.,1687.0
+1058,2362259,What shade are the majority of the bricks on the building?,Red.,1854.0
+1059,2362259,What is in the black containers?,Flowers.,909.0
+1060,2374619,What are the door handles on the refrigerator made of?,Wood.,2593.0
+1061,2370181,What type of bread is shown?,Garlic bread.,963.0
+1062,2343297,What color are the leaves on flowers?,Green.,1009.0
+1063,2413695,What is behind the giraffes?,Trees.,2425.0
+1064,2344495,What type of ground is there?,Grass.,987.0
+1065,2378808,How wheels does the vehicle have?,Two.,2446.0
+1066,2375798,What is the man in front of?,The ocean.,2212.0
+1067,2324913,What food tops the dish in the foreground?,Rice.,1859.0
+1068,2411351,Who is on the man's shirt?,Jesus.,1250.0
+1069,2334271,What color is the bike?,Royal blue and white.,1884.0
+1070,2334271,What is the man holding?,A gun.,176.0
+1071,2362649,What are the walls made of?,Glass.,972.0
+1072,2365624,How many cows in the fence?,Four cows.,938.0
+1073,2389565,What does the woman have around her neck?,A scarf.,277.0
+1074,2407122,What time of day?,Noon.,1457.0
+1075,2411997,What color is the helmet?,Yellow.,2612.0
+1076,2338114,What is in the background of the picture?,A building.,101.0
+1077,2410830,When was this pic taken?,During the day.,846.0
+1078,2408406,What is the color of the water?,Green.,1009.0
+1079,2368617,Where is the bed?,Front of a window.,949.0
+1080,2368617,What is the sunlight shining through?,Window.,2568.0
+1081,2399850,How is the hair done?,Spiked.,1990.0
+1082,2352961,How many flower arrangements can you see?,Two.,2446.0
+1083,2396341,Who is holding a helmet?,The woman in front.,2284.0
+1084,2374977,What is floral and white?,Shirt.,1924.0
+1085,2318638,Who has the surfboard?,The man.,2203.0
+1086,2332982,How many people are shown?,One.,1687.0
+1087,2355145,What color is the sink?,White.,2563.0
+1088,2359279,What color are the towels?,White.,2563.0
+1089,2361344,How the hot dog holding?,Hand.,1022.0
+1090,2402203,Where was the picture taken?,High St.,1046.0
+1091,2362601,What is the man doing?,Skiing.,1955.0
+1092,2358603,Who is in the picture?,No one.,1449.0
+1093,2359580,What is the sidewalk and street made of?,Paving stone.,1743.0
+1094,2372344,Where are the parked cars?,On the street.,1645.0
+1095,2410531,What is photo of?,Man tossing tennis ball.,1355.0
+1096,2353356,What color is the chair?,Blue.,621.0
+1097,2353356,How many people are in this picture?,One.,1687.0
+1098,2343297,What color is the tablecloth?,Red and blue.,1844.0
+1099,2346879,What city is this?,Paris.,1728.0
+1100,2357684,When was this photo taken?,"Outside, during the daytime.",1710.0
+1101,2354144,What company runs the bus?,Hertz.,1043.0
+1102,2402216,What type of shirt is the man wearing?,Polo.,1803.0
+1103,2342125,Who is looking directly at the photographer?,A girl.,165.0
+1104,2367980,What is on the other side of the lake?,The trees.,2268.0
+1105,2334365,How many people?,Four.,940.0
+1106,2416681,What color are the leaves?,Green.,1009.0
+1107,2395872,What is the girl holding a right hand?,2 bags.,22.0
+1108,2395872,Where is the girl standing?,In the street.,1176.0
+1109,2398614,How is the dog?,The dog is white.,2165.0
+1110,2316928,What color is the water?,Gray and white.,991.0
+1111,2334471,Where is a kite?,In the air.,1135.0
+1112,2353356,What type of animal is that?,A dog.,146.0
+1113,2346879,How many mirrors are visible?,One.,1687.0
+1114,2361117,What is the man wearing?,Coat.,748.0
+1115,2338114,Where is the skateboard?,In the air.,1135.0
+1116,2328298,Where was the photo taken?,In the snow.,1175.0
+1117,2367980,When was this picture taken?,Daytime.,800.0
+1118,2367980,How many benches are there?,One.,1687.0
+1119,2399850,What is the bed beside?,Window.,2568.0
+1120,2336041,What is in the sky?,An airplane.,404.0
+1121,2352961,Where are the flowers?,In a vase.,1097.0
+1122,2374734,Where is the light?,Above the bus.,369.0
+1123,2416681,When was the picture taken?,Daytime.,800.0
+1124,2408813,What color is the grass?,Green.,1009.0
+1125,2387827,What is the man doing that's standing in the photo?,Touching the bananas.,2404.0
+1126,2337237,Where is the dog?,In the kitchen.,1158.0
+1127,2379559,What color is the cat's back flank?,Black.,603.0
+1128,2370181,What color is the tablecloth on the table?,White.,2563.0
+1129,2359450,What is in front of the buses?,A city.,123.0
+1130,2344495,What kind of animal is there?,A zebra.,363.0
+1131,2397109,What color is the statue?,Grey.,1015.0
+1132,2402216,What race is the boy?,Asian.,437.0
+1133,2338114,What is the boy doing in the picture?,Skateboarding.,1947.0
+1134,2363014,Where is the eye?,On the girl.,1592.0
+1135,2414214,What types of food are these?,Fruits.,955.0
+1136,2399850,Where is the boy's index finger?,In his mouth.,1124.0
+1137,2336041,How does the plane fly?,Jet engines.,1251.0
+1138,2407281,Where is the man?,In the water.,1182.0
+1139,2323128,What colors are the street lines?,Yellow and white.,2608.0
+1140,2323128,What is in the background?,Trees.,2425.0
+1141,2334365,Where is black dress?,Woman in foreground.,2584.0
+1142,2402657,What can be seen outside the vehicle?,A road.,269.0
+1143,2395872,Who is in the picture?,A young woman.,362.0
+1144,2340279,What spicy vegetable is a topping?,Jalapeno pepper.,1247.0
+1145,2332982,What color is the man's goggles?,Orange.,1698.0
+1146,2345486,Where is this picture taken?,On a railroad.,1505.0
+1147,2337237,Who is in the photo?,The woman.,2289.0
+1148,2353318,What is hanging from the woman's ear?,Earrings.,850.0
+1149,2353318,What color is the plate?,White.,2563.0
+1150,2338538,What is the color of the sky?,Blue.,621.0
+1151,2333489,Where is the stove?,Kitchen.,1265.0
+1152,2354144,Where is the bus?,On the street.,1645.0
+1153,2361117,Where is the door?,Behind the man on the left in the back.,547.0
+1154,2411351,What is shading the man?,Umbrella.,2449.0
+1155,2325842,How many kites are there?,Two.,2446.0
+1156,2365624,What is on the ground?,Snow.,1970.0
+1157,2367360,Where is the wool?,On the sheep.,1633.0
+1158,2378366,How many brown cats?,2,21.0
+1159,2378366,How many cats?,3,28.0
+1160,2378366,What color is the grass?,Green.,1009.0
+1161,2411997,What color are the numbers in the motorcyclist?,Red.,1854.0
+1162,2408406,What is the boat made of?,Wood.,2593.0
+1163,2342125,How many people are in the picture?,Three.,2320.0
+1164,2342125,Where are the children?,Lying in the water.,1340.0
+1165,2399850,How does the boy's forehead look?,Furled.,959.0
+1166,2399850,Where was the picture taken?,In a bedroom.,1068.0
+1167,2407281,What is the man holding?,Ropes.,1882.0
+1168,2323128,Who is pulling the cart?,A horse.,183.0
+1169,2402829,What's the color of the water?,Brown.,655.0
+1170,2401945,What sport is the boy playing?,Tennis.,2103.0
+1171,2332982,What sport is the man doing?,Skiing.,1955.0
+1172,2318683,When was the photo taken?,Daytime.,800.0
+1173,2345486,What color is the train?,Blue and yellow.,613.0
+1174,2336292,Where was the photo taken?,At a baseball field.,441.0
+1175,2380355,When is the photo taken?,Daytime.,800.0
+1176,2338538,What is the man wearing?,Long sleeve shirt.,1330.0
+1177,2370181,What is on the plate?,Vegetables.,2479.0
+1178,2375798,What is the man holding?,An umbrella.,421.0
+1179,2367360,What are the sheep doing?,Feeding.,888.0
+1180,2336041,Where is the plane from?,Canada.,680.0
+1181,2374977,What number of men are eating?,Three.,2320.0
+1182,2402657,What animal is shown?,Dog.,814.0
+1183,2340279,How many fingers are showing?,Seven.,1912.0
+1184,2316928,When was the picture taken?,Daytime.,800.0
+1185,2378578,What is on the woman's face?,Glasses.,973.0
+1186,2336868,How many people are clearly visible?,Zero.,2620.0
+1187,2402203,Where are the street signs?,On top of the stop sign.,1668.0
+1188,2336292,What sport is being played?,Baseball.,507.0
+1189,2360930,What is in the image?,Giraffe.,967.0
+1190,2343297,How are the flowers arranged?,In vase.,1189.0
+1191,2343297,What color are the flowers?,Yellow.,2612.0
+1192,2346879,What color is the road?,Grey.,1015.0
+1193,2378808,Where is the man riding?,In the street.,1176.0
+1194,2324913,What items are displayed here?,Food.,920.0
+1195,2324913,What seafood item is part of the dish on the left?,Shrimp.,1929.0
+1196,2334271,Who is he pointing to?,The spectators.,2244.0
+1197,2362649,What is in the glasses?,Wine.,2571.0
+1198,2410830,Where is the truck parked?,On pavement.,1548.0
+1199,2363154,What is the main color of the road sign?,Red.,1854.0
+1200,2414214,How many oranges are shown?,4,34.0
+1201,2377223,What is on the woman's t-shirt?,"White, purple and green letters.",2562.0
+1202,2345589,When was this photo taken?,During the day.,846.0
+1203,2335754,What type of animal is in the picture?,Cat.,694.0
