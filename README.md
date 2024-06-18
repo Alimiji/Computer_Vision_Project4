@@ -1,4 +1,5 @@
 1.1 Titre du projet :
+
 D´evelopper un syst`eme visuel question-reponse en hausa (HVQA : Hausa Visuel Question - Response)
 1.2 M´etrique utilis´ee :
 Le m´etrique utilis´e pour l’´evaluation est le m´etrique de Wu et Palmer.
@@ -7,8 +8,12 @@ Le m´etrique utilis´e pour l’´evaluation est le m´etrique de Wu et Palmer.
 — Auteurs de l’article :
 Shantipriya Parida, Idris Abdulmumin, Shamsuddeen Hassan Muhammad, Aneesh Bose,
 Guneet Singh Kohli, Ibrahim Said Ahmad, Ketan Kotwal, Sayan Deb Sarkar, Ondˇrej
-Bojar, Habeebah Adamu Kakudi [SP23]
+Bojar, Habeebah Adamu Kakudi 
+
+
 1.4 Etapes `a suivre pour ce projet : ´
+
+
 — Collecte de donn´ees : Ici j’utiliserai le dataset (HaVQA) cr´e´e et utilis´e dans l’article.
 — Analyse et Traitement des Donn´ees : Tokenisation + normalisation + traduction de concepts
 sp´ecifiques pour les questions (en hausa), et les techniques de vision par ordinateur pour extraire
@@ -21,6 +26,10 @@ question et de l’image.
 ajustant les param`etres pour maximiser les performances.
 — Evaluation du mod`ele : ´ Evaluation du mod`ele en utilisant le m´etrique de Wu et Palmer. ´
 1
+
+
+
+
 Références:
 Shamsuddeen Hassan Muhammad Aneesh Bose Guneet Singh Kohli Ibrahim Said Ahmad Ketan Kotwal Sayan Deb Sarkar Ondrej Bojar Habeebah A. Kakudi Shantipriya Parida, Idris Abdulmumin. Havqa : A dataset for visual question answering and multimodal research in hausa
 language. ACL (Findings), pages 10162–10183, 2023.
