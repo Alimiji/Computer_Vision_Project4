@@ -1,6 +1,6 @@
 1.1 Titre du projet :
 
-Développer un système visuel question-reponse en hausa (HVQA : Hausa Visuel Question - Response)
+Développer un système visuel question-reponse en anglais (HVQA : Hausa Visuel Question - Response)
 
 1.2 Métrique utilisée :
 
