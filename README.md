@@ -1,15 +1,19 @@
 1.1 Titre du projet :
+
 Développement d'un système de question-réponse visuel en anglais (HVQA : Hausa Visual Question-Answering)
 
 1.2 Métrique utilisée :
+
 La métrique utilisée pour l'évaluation est celle de Wu et Palmer.
 
 1.3 Article de référence :
+
 — Titre de l’article : HaVQA : A Dataset for Visual Question Answering and Multimodal Research in Hausa Language
 
 — Auteurs de l’article: Shantipriya Parida, Idris Abdulmumin, Shamsuddeen Hassan Muhammad, Aneesh Bose, Guneet Singh Kohli, Ibrahim Said Ahmad, Ketan Kotwal, Sayan Deb Sarkar, Ondřej Bojar, Habeebah Adamu Kakudi
 
 1.4 Étapes à suivre pour ce projet :
+
 — Collecte de données : Utilisation du dataset HaVQA créé et décrit dans l'article de référence.
 
 — Analyse et traitement des données : Tokenisation, normalisation et traduction de concepts spécifiques pour les questions en hausa. Utilisation de techniques de vision par ordinateur pour extraire les caractéristiques pertinentes des images.
